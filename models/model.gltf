@@ -1468,7 +1468,7 @@
 	"buffers":[
 		{
 			"byteLength":34481532,
-			"uri":"model.bin"
+			"uri":"https://cdn.jsdelivr.net/gh/SIROBAKO/cdnFiles/blob/main/models/model.bin"
 		}
 	]
 }
