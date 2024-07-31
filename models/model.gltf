@@ -466,7 +466,7 @@
 		{
 			"mimeType":"image/png",
 			"name":"Material3993_diffuse",
-			"uri":"texture.png"
+			"uri":"https://raw.githubusercontent.com/SIROBAKO/cdnFiles/main/models/texture.jpg"
 		}
 	],
 	"accessors":[
