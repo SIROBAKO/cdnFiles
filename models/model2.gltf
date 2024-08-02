@@ -350,13 +350,13 @@
   ],
   "images": [
     {
-      "uri": "/models/texture//Material.001_baseColor.png"
+      "uri": "https://raw.githubusercontent.com/SIROBAKO/cdnFiles/main/models/texture/Material.001_baseColor.png"
     },
     {
-      "uri": "/models/texture//Material.001_metallicRoughness.png"
+      "uri": "https://raw.githubusercontent.com/SIROBAKO/cdnFiles/main/models/texture/Material.001_metallicRoughness.png"
     },
     {
-      "uri": "/models/texture/Material.001_normal.png"
+      "uri": "https://raw.githubusercontent.com/SIROBAKO/cdnFiles/main/models/texture/Material.001_normal.png"
     }
   ],
   "materials": [
